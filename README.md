@@ -1,7 +1,7 @@
 # Matematica Discreta - TP1
 
-[Problemas](./Problemas/ProblemasTP.pdf)
+ - [Problemas](./Problemas/ProblemasTP.pdf)
 
-[Soluções](./Soluções)
+ - [Soluções](./Soluções)
 
-[Documentação](doc.pdf)
+ - [Documentação](doc.pdf)
